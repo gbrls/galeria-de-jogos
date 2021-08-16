@@ -19,6 +19,13 @@ function About() {
                                 durate muitos anos dezenas de jogos foram elaborados, este site foi feito para abrigar 
                                 todos esses jogos.
                             </p>
+
+                            <h3 className="block font-bold text-2xl text-gray-700 mt-5">
+                                Contribuindo
+                            </h3>
+                            <p className="text-gray-600 text-justify">
+                            <a href="https://forms.gle/neNHZESL6ZVCXALD7" className="hover:underline">Furmulário para colocar o jogo no site</a>
+                            </p>
                         </div>
                     </div>
                 </div>
