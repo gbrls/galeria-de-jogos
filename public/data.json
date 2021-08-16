@@ -2,38 +2,35 @@
     "games": [
         {
             "name": "Cucabeludo",
-            "team": "Luquet, etc",
-            "link": "https://gbrls.github.io/ip-gallery/equipe-4/simple_game.html",
+            "team": "Luquet, ...?",
             "class": "2020.1",
-            "web": "true"
+            "web": "https://gbrls.github.io/ip-gallery/equipe-4/simple_game.html"
         },
         {
             "name": "Fuja da Área-2",
-            "team": "Janovitz?, etc",
-            "link": "https://gbrls.github.io/ip-gallery/fujaDaArea2-equipe-3/simple_game.html",
-            "class": "2020.1",
-            "web": "true"
+            "team": "...?",
+            "web": "https://gbrls.github.io/ip-gallery/fujaDaArea2-equipe-3/simple_game.html",
+            "class": "2020.1"
         },
         {
             "name": "A Ameaça Vermelha",
             "team": "dymb, mbn2, rnm4",
-            "link": "https://mbn2.itch.io/a-ameaca-vermelha",
-            "class": "2020.3",
-            "web": "false"
+            "home": "https://mbn2.itch.io/a-ameaca-vermelha",
+            "class": "2020.3"
         },
         {
             "name": "Fuja",
             "team": "Jefferson",
-            "link": "https://jefersonn.itch.io/fuja",
-            "class": "2020.3",
-            "web": "false"
+            "home": "https://jefersonn.itch.io/fuja",
+            "class": "2020.3"
         },
         {
             "name": "Jacquin's Hell",
             "team": "Ricardo Morato, Gabriel Schneider, Gabriel Gadelha, Gleibson Rozendo, Leonardo Moreira e Vituriano Xisto",
-            "link": "https://github.com/gbrls/if669-jogo",
+            "github": "https://github.com/gbrls/if669-jogo",
+            "home": "https://docs.google.com/document/d/1GUkAA6Tv_SgV5HuBIBtLkdRdiGoB3Gxj1L-__42aXpQ",
             "class": "2019.2",
-            "web": "false"
+            "text": "Foi muito divertido elaborar este jogo, fizemos amigos e aprendemos muito."
         }
     ]
 }
