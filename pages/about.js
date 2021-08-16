@@ -6,7 +6,7 @@ function About() {
         <div className="space-y-5 bg-gray-800 min-h-screen">
             <div>
                 <NavBar current='Sobre' />
-                <div className="container mx-auto my-5 pl-60 pr-60">
+                <div className="container mx-auto my-5 lg:pl-60 lg:pr-60">
                     <div className="rounded-xl  shadow-xl">
                         <div className="p-8 pr-14 pl-14 py-12 mx-2 mx-0 h-full bg-white rounded-lg rounded-l-lg shadow-xl shadow-none">
                             <h3 className="block font-bold text-2xl text-gray-700">
